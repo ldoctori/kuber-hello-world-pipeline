@@ -1,2 +1,2 @@
 # kuber-hello-world-pipeline
-first pipeline to deploy app in k8s
+first pipeline to deploy an app in k8s
